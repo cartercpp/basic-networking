@@ -1,4 +1,3 @@
-server.cpp
 #include <iostream>
 #include <stdexcept>
 
